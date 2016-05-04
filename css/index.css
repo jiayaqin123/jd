@@ -208,7 +208,7 @@
 	width: 60px;
 	height: 60px;
 	margin-right: 10px;
-	background: olive;
+	background: #fff;
 	float: left;
 }
 .downBoxHidden2 .downBoxHiddenWord1Left img{
@@ -683,7 +683,7 @@
 .bannerContent .banner1{
 	width: 210px;
 	height: 100%;
-	background: pink;
+	background: #fff;
 	margin-right: 10px;
 	float: left;
 }
@@ -716,7 +716,7 @@
 .bannerContent .banner2{
 	width: 730px;
 	height: 454px;
-	background: orange;
+	background: #fff;
 	margin-right: 10px;
 	margin-top: 10px;
 	float: left;
@@ -802,7 +802,7 @@
 	height: 0px;
 	position: absolute;
 	left: 0;bottom: 80px;
-	background: yellow;	
+	background: #fff;	
 	overflow: hidden;
 }
 .bannerContent .banner3 .BANNERhiddenBox .BANNERhiddenItem{
@@ -1358,7 +1358,7 @@
 .bannerContent .banner3 .banner32Item .img{
 	width: 25px;
 	height: 25px;
-	background: red;
+	background: #fff;
 	background: url(../img/banner/2.png);
 	position: absolute;
 	left: 18px;
@@ -1407,7 +1407,7 @@
 	width: 250px;
 	height: 75px;
 	margin-top: 5px;
-	background: green;
+	background: #fff;
 }
 .bannerContent .banner3 .banner33 img{
 	display: block;
@@ -1541,7 +1541,7 @@
 .bannerBottom1{
 	width: 210px;
 	height: 151px;
-	background: red;
+	background: #fff;
 	float: left;
 	background: url(../img/bannerBottom/1.png) no-repeat -213px -136px;
 }
@@ -1656,7 +1656,7 @@
 	width: 1208px;
 	height: 231px;
 	border: 1px solid #ededed;
-	background: purple;
+	background: #fff;
 	position: relative;
 }
 .cnxhBDItem{
@@ -1856,7 +1856,7 @@
 .pzshBD12{
 	width: 201px;
 	height: 158px;
-	background: pink;
+	background: #fff;
 	border-right: 1px solid #ededed;
 	float: left;
 }
@@ -1967,13 +1967,13 @@
 	width: 228px;
 	height: 158px;
 	border-right: 1px solid #ededed;
-	background: orange;
+	background: #fff;
 }
 .pzshBD3{
 	width: 403px;
 	height: 100%;
 	border-right: 1px solid #ededed;
-	background: yellow;
+	background: #fff;
 	float: left;
 }
 .pzshBD3 a{
@@ -2061,7 +2061,7 @@
 .fzxbContent{
 	width: 1210px;
 	height: 100%;
-	background: green;
+	background: #fff;
 	margin: 0 auto;
 }
 .fzxbHD{
@@ -2160,13 +2160,13 @@
 .fzxb1 .imgItemInner1{
 	width: 330px;
 	height: 100%;
-	background: red;
+	background: #fff;
 	float: left;
 }
 .fzxb1 .imgItemInner11{
 	width: 100%;
 	height: 474px;
-	background: red;
+	background: #fff;
 }
 .fzxb1 .imgItemInner11{
 	position: relative;
@@ -2246,47 +2246,47 @@
 .fzxb1 .imgItemInner12{
 	width: 328px;
 	height: 158px;
-	background: orange;
+	background: #fff;
 	border: 1px solid #f7f5ee;
 	border-top: 0;
 }
 .fzxb1 .imgItemInner2{
 	width: 440px;
 	height: 100%;
-	background: orange;
+	background: #fff;
 	float: left;
 }
 .fzxb1 .imgItemInner21{
 	width: 439px;
 	height: 157px;
-	background: red;
+	background: #fff;
 	border-right: 1px solid #f7f5ee;
 	border-bottom: 1px solid #f7f5ee;
 }
 .fzxb1 .imgItemInner22{
 	width: 439px;
 	height: 315px;
-	background: orange;
+	background: #fff;
 	border-right: 1px solid #f7f5ee;
 	border-bottom: 1px solid #f7f5ee;
 }
 .fzxb1 .imgItemInner23{
 	width: 439px;
 	height: 158px;
-	background: yellow;
+	background: #fff;
 	border-right: 1px solid #f7f5ee;
 	border-bottom: 1px solid #f7f5ee;
 }
 .fzxb1 .imgItemInner3{
 	width: 220px;
 	height: 100%;
-	background: yellow;
+	background: #fff;
 	float: left;
 }
 .fzxb1 .imgItemInner31{
 	width: 219px;
 	height: 157px;
-	background: red;
+	background: #fff;
 	border-right: 1px solid #f7f5ee;
 	border-bottom: 1px solid #f7f5ee;
 }
@@ -2296,7 +2296,7 @@
 .fzxb1 .imgItemInner4{
 	width: 220px;
 	height: 100%;
-	background: green;
+	background: #fff;
 	float: left;
 }
 .fzxb1 .imgItemInner31BottomRight{
@@ -2306,13 +2306,13 @@
 .fzxb .imgItemInnerNEI12{
 	width: 880px;
 	height: 100%;
-	background: red;
+	background: #fff;
 	float: left;
 }
 .fzxb .imgItemInnerNEI8{
 	width: 880px;
 	height: 474px;
-	background: red;
+	background: #fff;
 	float: left;
 }
 .fzxb .imgItemInnerNEI8Inner{
@@ -2365,7 +2365,7 @@
 .fzxb .imgItemInnerNEI10{
 	width: 1000px;
 	height: 474px;
-	background: red;
+	background: #fff;
 	float: left;
 }
 .fzxb .imgItemInnerNEI10Inner{
@@ -2422,13 +2422,13 @@
 .fzxb .imgItemInnerNEI4{
 	width: 880px;
 	height: 159px;
-	background: orange;
+	background: #fff;
 	float: left;
 }
 .fzxb .imgItemInnerNEI4Inner{
 	width: 219px;
 	height: 158px;
-	background: red;
+	background: #fff;
 	border-right: 1px solid #ededed;
 	border-bottom: 1px solid #ededed;
 	float: left;
@@ -2486,7 +2486,7 @@
 .ghmz .imgItemInner1{
 	width: 210px;
 	height: 100%;
-	background: red;
+	background: #fff;
 	float: left;
 	position: relative;
 }
@@ -2585,12 +2585,12 @@
 	height: 176px;
 	border-right: 1px solid #f7f7f7;
 	border-bottom: 1px solid #f7f7f7;
-	background: orange;
+	background: #fff;
 }
 .ghmz .imgItemInner3{
 	width: 220px;
 	height: 100%;
-	background: yellow;
+	background: #fff;
 	float: left;
 }
 .ghmz .imgItemInner31{
@@ -2598,14 +2598,14 @@
 	height: 296px;
 	border-right: 1px solid #f7f7f7;
 	border-bottom: 1px solid #f7f7f7;
-	background: red;
+	background: #fff;
 }
 .ghmz .imgItemInner32{
 	width:219px;
 	height: 176px;
 	border-right: 1px solid #f7f7f7;
 	border-bottom: 1px solid #f7f7f7;
-	background: orange;
+	background: #fff;
 }
   /* 省去给每一个都加 */
                      /* 改中间的轮播时这个记得看一下会不会影响 */
@@ -2624,7 +2624,7 @@
 .sjtx .imgItemInner1{
 	width: 330px;
 	height: 100%;
-	background: red;
+	background: #fff;
 	float: left;
 	position: relative;
 }
@@ -2718,7 +2718,7 @@
 .sjtx .imgItemInner2{
 	width: 440px;
 	height: 100%;
-	background: orange;
+	background: #fff;
 	float: left;
 }
 .sjtx .imgItemInner21{
@@ -2726,7 +2726,7 @@
 	height: 236px;
 	border-right: 1px solid #f7f7f7;
 	border-bottom: 1px solid #f7f7f7;
-	background: red;
+	background: #fff;
 	float: left;
 }
 .sjtx .imgItemInner22{
@@ -2734,13 +2734,13 @@
 	height: 236px;
 	border-right: 1px solid #f7f7f7;
 	border-bottom: 1px solid #f7f7f7;
-	background: orange;
+	background: #fff;
 	float: left;
 }
 .sjtx .imgItemInner3{
 	width: 220px;
 	height: 100%;
-	background: yellow;
+	background: #fff;
 	float: left;
 }
 .sjtx .imgItemInner31{
@@ -2748,21 +2748,21 @@
 	height: 118px;
 	border-right: 1px solid #f7f7f7;
 	border-bottom: 1px solid #f7f7f7;
-	background: red;
+	background: #fff;
 }
 .sjtx .imgItemInner32{
 	width: 219px;
 	height: 117px;
 	border-right: 1px solid #f7f7f7;
 	border-bottom: 1px solid #f7f7f7;
-	background: orange;
+	background: #fff;
 }
 .sjtx .imgItemInner33{
 	width: 219px;
 	height: 236px;
 	border-right: 1px solid #f7f7f7;
 	border-bottom: 1px solid #f7f7f7;
-	background: yellow;
+	background: #fff;
 }
 
 
@@ -2819,7 +2819,7 @@
 .tsyx .imgItemInner1{
 	width: 210px;
 	height: 100%;
-	background: red;
+	background: #fff;
 	float: left;
 	position: relative;
 }
@@ -2909,7 +2909,7 @@
 .tsyx .imgItemInner2{
 	width: 220px;
 	height: 100%;
-	background: yellow;
+	background: #fff;
 	float: left;
 }
 .tsyx .imgItemInner21{
@@ -2917,14 +2917,14 @@
 	height: 236px;
 	border-right: 1px solid #f7f7f7;
 	border-bottom: 1px solid #f7f7f7;
-	background: red;
+	background: #fff;
 }
 .tsyx .imgItemInner22{
 	width:219px;
 	height: 236px;
 	border-right: 1px solid #f7f7f7;
 	border-bottom: 1px solid #f7f7f7;
-	background: orange;
+	background: #fff;
 }
 
 
@@ -2939,7 +2939,7 @@
 	height: 236px;
 	border-right: 1px solid #f7f7f7;
 	border-bottom: 1px solid #f7f7f7;
-	background: red;
+	background: #fff;
 	float: left;
 }
 .tsyx .imgItemInner32{
@@ -2947,7 +2947,7 @@
 	height: 236px;
 	border-right: 1px solid #f7f7f7;
 	border-bottom: 1px solid #f7f7f7;
-	background: orange;
+	background: #fff;
 	float: left;
 }
 .tsyx .imgItemInner4{
@@ -2956,7 +2956,7 @@
 	border-bottom: 1px solid #f7f7f7;
 	border-right: 1px solid #f7f7f7;
 	float: left;
-	background: yellow;
+	background: #fff;
 }
 .tsyx .imgItemInner41{
 	width: 100%;
@@ -3115,7 +3115,7 @@
 .shfwContent{
 	width: 1210px;
 	height: 100%;
-	background: green;
+	background: #fff;
 	margin: 0 auto;
 }
 .shfwHD{
@@ -3149,7 +3149,7 @@
 .shfwBD{
 	width: 100%;
 	height: 474px;
-	background: red;
+	background: #fff;
 	position: relative;
 }
 .shfwBD .imgItem{
@@ -3168,7 +3168,7 @@
 .shfw .imgItemInner1{
 	width: 210px;
 	height: 100%;
-	background: red;
+	background: #fff;
 	float: left;
 	position: relative;
 }
@@ -3259,13 +3259,13 @@
 .shfw .imgItemInner21{
 	width: 100%;
 	height: 237px;
-	background: red;
+	background: #fff;
 	float: left;
 }
 .shfw .imgItemInner221{
 	width: 197px;
 	height: 117px;
-	background: orange;
+	background: #fff;
 	border-right: 1px solid #f7f7f7;
 	border-bottom: 1px solid #f7f7f7;
 	float: left;
@@ -3273,7 +3273,7 @@
 .shfw .imgItemInner222{
 	width: 196px;
 	height: 117px;
-	background: yellow;
+	background: #fff;
 	border-right: 1px solid #f7f7f7;
 	border-bottom: 1px solid #f7f7f7;
 	float: left;
@@ -3281,7 +3281,7 @@
 .shfw .imgItemInner223{
 	width: 197px;
 	height: 118px;
-	background: green;
+	background: #fff;
 	border-right: 1px solid #f7f7f7;
 	border-bottom: 1px solid #f7f7f7;
 	float: left;
@@ -3289,7 +3289,7 @@
 .shfw .imgItemInner224{
 	width: 196px;
 	height: 118px;
-	background: blue;
+	background: #fff;
 	border-right: 1px solid #f7f7f7;
 	border-bottom: 1px solid #f7f7f7;
 	float: left;
@@ -3583,7 +3583,7 @@
 .dkhsContent{
 	width: 1208px;
 	height: 100%;
-	background: red;
+	background: #fff;
 	margin: 0 auto;
 }
 .dkhs .dkhsItem{
@@ -3979,7 +3979,7 @@
 	width: 100%;
 	height: 100%;
 	border-radius: 3px;
-	background: red;
+	background: #fff;
 	background:#999 url(../img/slideFix/1.png) -51px 0px no-repeat;  
 	position: absolute;
 	left: 0;
